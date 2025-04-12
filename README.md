@@ -152,6 +152,7 @@ The following layouts are currently implemented.
 | `osprette.h`            | 34               | Osprette                                   |
 | `sofle.h`               | 60               | Sofle                                      |
 | `totem.h`               | 38               | Totem                                      |
+| `rolio46.h`             | 46               | Rolio 46                                   |
 
 ### Unicode-characters and language collection
 
