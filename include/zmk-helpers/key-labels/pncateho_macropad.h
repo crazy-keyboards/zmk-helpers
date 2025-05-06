@@ -13,10 +13,10 @@
 #define LT2  1
 #define LT3  0
 
-#define LB0 4  // bottom row
-#define LB1 5
-#define LB2 6
-#define LB3 7
+#define LB0 7  // bottom row
+#define LB1 6
+#define LB2 5
+#define LB3 4
 
 #define LH0 9  // thumb keys
 #define LH1 8
